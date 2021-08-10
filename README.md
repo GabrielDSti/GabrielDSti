@@ -1,4 +1,4 @@
-## Opa! Eu sou o Gabriel 
+## Hi! My name is Gabriel 
  <div>
   <a href="https://github.com/GabrielDSti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDSti&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
